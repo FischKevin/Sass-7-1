@@ -1,0 +1,20 @@
+{
+  "name": "project's name",
+  "version": "1.0.0",
+  "description": "project's description",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch ./sass/main.scss ./css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git repository's project"
+  },
+  "author": "project's author",
+  "license": "project's licence",
+  "bugs": {
+    "url": "git issues' url"
+  },
+  "homepage": "git homepage's url"
+}
