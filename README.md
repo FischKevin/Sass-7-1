@@ -6,5 +6,23 @@ I like using Sass, but preparing development environment takes a lot of time (to
 I had to look for the commands, and the syntax, etc.
 I decided to create a .sh file (for Linux) and a .bat file (for Windows) to create the 7-1 file structure and the files inside.
 
-## TO DO :
-Add a "How to" install Sass, from zero to "everything is ok, go on coding".
+## Sass ?
+You can find a lot of information here : https://sass-lang.com/
+
+To install Sass, you can begin with : 
+npm install node
+
+And then :
+npm install -g sass
+
+And to conclude :
+npm init
+
+Answer the question and it is almost done.
+
+The last step :
+Take the package.json file in this repository and replace its values by yours.
+The most important part to use Sass is :
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss ./css/style.css"
+Take care of the paths and it will be done !
