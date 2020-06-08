@@ -20,9 +20,9 @@ npm init
 
 Answer the question and it is almost done.
 
-The last step :
-Take the package.json file in this repository and replace its values by yours.
-The most important part to use Sass is :
-  "scripts": {
-    "sass": "sass --watch ./sass/main.scss ./css/style.css"
+The last step :  
+Take the package.json file in this repository and replace its values by yours.  
+The most important part to use Sass is :  
+  "scripts": {  
+    "sass": "sass --watch ./sass/main.scss ./css/style.css"  
 Take care of the paths and it will be done !
