@@ -7,7 +7,7 @@ mkdir themes
 mkdir vendors
 cd abstracts
 echo. > _variables.scss
-echo. > _function.scss
+echo. > _functions.scss
 echo. > _mixins.scss
 echo. > _placeholders.scss
 cd .. 

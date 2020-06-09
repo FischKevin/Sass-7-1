@@ -7,7 +7,7 @@ mkdir themes
 mkdir vendors
 cd abstracts
 touch _variables.scss
-touch _function.scss
+touch _functions.scss
 touch _mixins.scss
 touch _placeholders.scss
 cd .. 
