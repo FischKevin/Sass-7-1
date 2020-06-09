@@ -10,9 +10,6 @@ I decided to create a .sh file (for Linux) and a .bat file (for Windows) to crea
 You can find a lot of information here : https://sass-lang.com/
 
 To install Sass, you can begin with : 
-npm install node
-
-And then :
 npm install -g sass
 
 And to conclude :
